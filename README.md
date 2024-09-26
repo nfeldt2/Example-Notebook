@@ -128,14 +128,6 @@ MNE-Python is an open-source package for processing EEG and MEG data.
 import mne
 ```
 
-### PyTorch
-
-PyTorch is an open-source machine learning library for Python, primarily used for deep learning applications.
-
-```python
-import torch
-```
-
 ---
 
 ## Visualizing EEG Signals
